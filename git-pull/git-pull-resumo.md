@@ -1,0 +1,2 @@
+# O que é o git pull?
+O git pull é um comando para transferir os arquivos no estado mais recente no repositório remoto, como o github, para o repositório local, servindo como um comando de sincronização ou atualização do repositório local com o remoto.
