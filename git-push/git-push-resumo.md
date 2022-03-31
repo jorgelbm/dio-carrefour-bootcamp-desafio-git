@@ -1,0 +1,2 @@
+# O que é o git push?
+Diferente do git pull, esse comando empurra (push) os commits locais para o repositório remoto, fazendo com que o trabalho mais recente feito localmente seja armazenado no repositório remoto, que fica na nuvem.
